@@ -3,7 +3,7 @@ This is a simple bash script to help automate get more enriched data from the do
 
 # How to use
 ```
-wget 'https://github.com/Hijack-Everything/Simple-ASN-from-Domain-or-SubDomain/blob/main/find_asn.sh'
+wget 'https://raw.githubusercontent.com/Hijack-Everything/ASN-Details-from-Domain-or-SubDomain/refs/heads/main/find_asn.sh'
 chmod +x find_asn.sh
 ./find_asn.sh -h example.target.com
 ```
