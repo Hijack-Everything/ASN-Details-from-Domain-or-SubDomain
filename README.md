@@ -1,4 +1,4 @@
-# Simple-ASN-from-Domain-or-SubDomain
+# ASN-Details-from-Domain-or-SubDomain
 This is a simple bash script to help automate get more enriched data from the domains and subdomains of a scope helping in bug bounty and other web applcation related security testing. It takes in the input of the subdomain or domain and then gives the ASN Number, ASN Range, ASN Name related to the domain or subdomain.
 
 # How to use
